@@ -1,0 +1,3 @@
+3. Load balancing merupakan salah satu teknik yang digunakan untuk mendistribusikan resource yang ada agar berjalan dengan optimal, memperkecil waktu loading, serta menghindari overload pada satu jalur koneksi. 
+    SSL merupakan singkatan dari Secure Sockets Layer, meruapakan salah satu teknologi keamanan yang memungkinkan pertukaran data secara terenkripsi melalui jaringan internet. Ketika SSL ini sudah dipasang, maka pada url website akan berubah menjadi HTTPS. 
+    Contoh web server yang saya ketahui ialah apache dan nginx.
